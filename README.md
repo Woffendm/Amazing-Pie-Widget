@@ -38,4 +38,4 @@ Ouch. If you don't like it, you can manually swap in your own by editing the cof
 
 ## There's no value on one of my segments! Your widget is broken!
 
-YOUR FACE is broken. It only displays values on segments whose area is >10% of the chart's total area. This is to stop a bunch of numbers getting smushed together. 
+It only displays values on segments whose area is >10% of the chart's total area. This is to stop a bunch of numbers getting smushed together. 
